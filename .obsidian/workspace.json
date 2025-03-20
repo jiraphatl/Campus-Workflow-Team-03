@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
             }
           },
           {
@@ -179,12 +179,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "152bc670730cbe60",
   "lastOpenFiles": [
-    "หนังสือ เธอ ฉัน สวรรค์ นรก.md",
-    "README.md"
+    "README.md",
+    "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
+    "หนังสือ เธอ ฉัน สวรรค์ นรก.md"
   ]
 }
