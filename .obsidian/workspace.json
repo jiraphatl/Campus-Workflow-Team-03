@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e8113d2355c12d90",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a790dd487538ce62",
+  "active": "e30464f97403930f",
   "lastOpenFiles": [
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
