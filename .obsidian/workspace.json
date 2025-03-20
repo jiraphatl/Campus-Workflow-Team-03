@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
             }
+          },
+          {
+            "id": "93e126666f839025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +210,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8b3df364b08fc02c",
+  "active": "93e126666f839025",
   "lastOpenFiles": [
-    "README.md",
+    "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+    "conflict-files-obsidian-git.md",
     "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
-    "conflict-files-obsidian-git.md"
+    "Campus-Workflow-Team-03",
+    "README.md"
   ]
 }

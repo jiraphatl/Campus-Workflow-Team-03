@@ -5,9 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
+<<<<<<< HEAD
+    "recentlyUsedIcons": [],
+=======
     "recentlyUsedIcons": [
       "LiBook"
     ],
+>>>>>>> 504f5e1a1c37f2b4598b3679134ab668b560d3a7
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -29,6 +33,10 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+<<<<<<< HEAD
+  }
+=======
   },
   "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md": "LiBook"
+>>>>>>> 504f5e1a1c37f2b4598b3679134ab668b560d3a7
 }

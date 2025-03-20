@@ -27,8 +27,13 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
+<<<<<<< HEAD
+  "authorInHistoryView": "hide",
+  "dateInHistoryView": false,
+=======
   "authorInHistoryView": "full",
   "dateInHistoryView": true,
+>>>>>>> 504f5e1a1c37f2b4598b3679134ab668b560d3a7
   "diffStyle": "split",
   "lineAuthor": {
     "show": false,
@@ -51,9 +56,13 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
+<<<<<<< HEAD
+    "gutterSpacingFallbackLength": 5
+=======
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
+>>>>>>> 504f5e1a1c37f2b4598b3679134ab668b560d3a7
   },
   "autoCommitMessage": ": {{date}}"
 }
