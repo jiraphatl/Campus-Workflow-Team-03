@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a0a53316d97dc4c",
+        "id": "be04cf45d45bff05",
         "type": "tabs",
         "children": [
           {
-            "id": "a790dd487538ce62",
+            "id": "2b17ac5a5be79647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-03-20_library-summary_Kiattisak-Nual-ai"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -177,15 +177,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "19225f2c0a52dcde",
+  "active": "e30464f97403930f",
   "lastOpenFiles": [
-    "README.md",
+    "conflict-files-obsidian-git.md",
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+    "เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
+    "เราต่างหมดไฟในสังคมคลั่งไคล้การทำงาน (The Burnout Society).md",
+    "README.md",
     "Campus-Workflow-Team-03",
-    "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
-    "conflict-files-obsidian-git.md"
+    "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md"
   ]
 }
