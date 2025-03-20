@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be04cf45d45bff05",
+        "id": "390bb6b6061cc865",
         "type": "tabs",
         "children": [
           {
-            "id": "2b17ac5a5be79647",
+            "id": "6825e2fa4a2489fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Templates/vndfb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "vndfb"
             }
           }
         ]
@@ -181,8 +181,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e30464f97403930f",
+  "active": "19225f2c0a52dcde",
   "lastOpenFiles": [
+    "Tasks/vnfdf.md",
+    "Templates/vndfb.md",
+    "Reports/hobj.md",
     "conflict-files-obsidian-git.md",
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
