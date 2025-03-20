@@ -11,10 +11,14 @@
             "id": "a790dd487538ce62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-03-20_library-summary_Kiattisak-Nual-ai"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "a790dd487538ce62",
   "lastOpenFiles": [
+    "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
     "README.md",
     "conflict-files-obsidian-git.md"
