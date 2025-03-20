@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7f56bbd52f5bb69d",
+    "id": "365a26a8c219c441",
     "type": "split",
     "children": [
       {
-        "id": "f2da4fd625dcb472",
+        "id": "3a0a53316d97dc4c",
         "type": "tabs",
         "children": [
           {
-            "id": "77fb16648d53b5f4",
+            "id": "a790dd487538ce62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-03-20_library-summary_Kiattisak-Nual-ai"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4073dd0fcd667eab",
+    "id": "5d53cec3006bb8c4",
     "type": "split",
     "children": [
       {
-        "id": "c11a7ba66b8722f4",
+        "id": "7ae1358275c667c8",
         "type": "tabs",
         "children": [
           {
-            "id": "bebe62fb64934583",
+            "id": "19225f2c0a52dcde",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "ab8ff9b80eff0bf6",
+            "id": "109bcabd37f10491",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "a18c60ee2a6f9084",
+            "id": "f4e61777de93fb94",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "d9eb2fbed64cc602",
+    "id": "e8113d2355c12d90",
     "type": "split",
     "children": [
       {
-        "id": "dea4aa49b56d3e5a",
+        "id": "ae44876bc2ff2028",
         "type": "tabs",
         "children": [
           {
-            "id": "cc09808e0a5bbdc1",
+            "id": "db2ed84425c0fbe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
             }
           },
           {
-            "id": "275b00d72382f688",
+            "id": "02136a1aff7efeed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
             }
           },
           {
-            "id": "e27f700c8106b00f",
+            "id": "e346e9d17f822e33",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,25 +137,36 @@
             }
           },
           {
-            "id": "1cdfdc9d58164c38",
+            "id": "9d41cfcd517541ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English)"
+            }
+          },
+          {
+            "id": "e30464f97403930f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,26 +176,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bebe62fb64934583",
+  "active": "e30464f97403930f",
   "lastOpenFiles": [
-    "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
-    "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
-    "Campus-Workflow-Team-03/Templates",
-    "Campus-Workflow-Team-03/Reports",
-    "Campus-Workflow-Team-03/Tasks",
-    "Campus-Workflow-Team-03/การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
-    "Campus-Workflow-Team-03/README.md",
     "Campus-Workflow-Team-03",
-    "Templates",
-    "Reports",
-    "Tasks",
-    "Team-03-Workflow/Templates",
-    "Team-03-Workflow/Reports",
-    "Team-03-Workflow/Tasks"
+    "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+    "การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
+    "README.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
