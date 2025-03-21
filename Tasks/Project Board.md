@@ -6,10 +6,12 @@ kanban-plugin: board
 
 ## To Do
 
+- [ ] สร้างไฟล์ Templates
 
 
 ## In Progress
 
+- [ ] สร้างเนื้อเรื่อง
 
 
 ## Done
