@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-03-20_library-summary_Kiattisak-Nual-ai"
             }
+          },
+          {
+            "id": "6f7d58e4ea4c84fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a790dd487538ce62",
+  "active": "6f7d58e4ea4c84fe",
   "lastOpenFiles": [
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
