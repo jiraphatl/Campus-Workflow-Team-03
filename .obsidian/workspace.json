@@ -11,12 +11,14 @@
             "id": "6f7d58e4ea4c84fe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,23 +181,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e30464f97403930f",
+  "active": "6f7d58e4ea4c84fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Templates/vndfb.md",
     "Tasks/Project Board.md",
+    "Excalidraw/Drawing 2025-03-26 22.31.42.excalidraw.md",
+    "Reports/2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
     "Reports/2024-03-20_library-summary_เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
     "Reports/2024-03-20_library-summary_เราต่างหมดไฟในสังคมคลั่งไคล้การทำงาน (The Burnout Society).md",
     "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
     "Reports/2024-03-20_library-summary_การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
-    "Reports/2024-03-20_library-summary_Kiattisak-Nual-ai.md",
-    "Excalidraw/Drawing 2025-03-26 22.31.42.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw",
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
     "เราต่างหมดไฟในสังคมคลั่งไคล้การทำงาน (The Burnout Society).md",
-    "Templates/vndfb.md",
     "Templates",
     "Tasks/vnfdf.md",
     "Tasks",
