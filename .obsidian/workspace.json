@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/2024-03-20_library-summary_Kiattisak-Nual-ai.md",
+                "file": "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
+                "file": "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก"
             }
           },
           {
@@ -52,11 +58,12 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,8 +82,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
+                "file": "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก"
             }
           },
           {
@@ -139,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
+                "file": "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก"
             }
           },
           {
@@ -152,8 +170,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md"
-              }
+                "file": "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก"
             }
           }
         ],
@@ -175,29 +202,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:เปิด quick switcher": false,
-      "graph:เปิดมุมมองกราฟ": false,
-      "daily-notes:เปิดโน้ตของวันนี้": false,
-      "templates:แทรกเทมเพลต": false,
-      "command-palette:เปิดกระดานคำสั่ง": false,
-      "canvas:Create new canvas": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0fce8a23eae7ded",
+  "active": "6825e2fa4a2489fe",
   "lastOpenFiles": [
+    "Reports/2024-03-20_library-summary_การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
+    "Reports/2024-03-20_library-summary_Kiattisak-Nual-ai.md",
     "Reports/2024-03-26_library-summary_รวบรวมหนังสือให้เป็นหนึ่งเรื่อง.md",
+    "Reports/2024-03-20_library-summary_เธอ ฉัน สวรรค์ นรก.md",
+    "Reports/2024-03-20_library-summary_เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
+    "Reports/2024-03-20_library-summary_เราต่างหมดไฟในสังคมคลั่งไคล้การทำงาน (The Burnout Society).md",
     "Excalidraw/Drawing 2025-03-26 22.31.42.excalidraw.md",
     "ยังไม่ได้ตั้งชื่อ.canvas",
     "Excalidraw",
     "Untitled Kanban.md",
     "README.md",
-    "Reports/2024-03-20_library-summary_การแปลภาษาไทยเป็นภาษาอังกฤษ (Translation Thai into English).md",
     "Tasks/Project Board.md",
     "Templates/vndfb.md",
     "ยังไม่ได้ตั้งชื่อ",
-    "Reports/2024-03-20_library-summary_Kiattisak-Nual-ai.md",
-    "Reports/2024-03-20_library-summary_เริ่มต้นใหม่ได้ทุกวัน (Every day is a new beginning).md",
-    "Reports/2024-03-20_library-summary_เราต่างหมดไฟในสังคมคลั่งไคล้การทำงาน (The Burnout Society).md",
     "Reports/hobj.md",
     "conflict-files-obsidian-git.md",
     "Tasks/vnfdf.md",
