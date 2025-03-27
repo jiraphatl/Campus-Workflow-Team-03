@@ -1,13 +1,6 @@
 [
-<<<<<<< HEAD
-  "obsidian-git",
-  "obsidian-icon-folder",
-  "obsidian-kanban",
-  "obsidian-excalidraw-plugin"
-=======
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-kanban",
-  "obsidian-icon-folder"
->>>>>>> 504f5e1a1c37f2b4598b3679134ab668b560d3a7
+  "obsidian-icon-folder",
+  "obsidian-kanban"
 ]
